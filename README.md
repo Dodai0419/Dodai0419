@@ -109,7 +109,7 @@ Or copy the repo's `AGENTS.md` into your project root. Each README has the exact
 | [home-frame](https://github.com/Dodai0419/home-frame) | Put your home on the wall as a live 3D model: tap a lamp in the picture and the real light turns on. |
 | [notif-city](https://github.com/Dodai0419/notif-city) | See which apps flood your Android phone with ads and deals, as a 3D city you can shrink. |
 | [mac-ai-off](https://github.com/Dodai0419/mac-ai-off) | Turn off Apple Intelligence on your Mac with one file you double-click. Remove it to undo. |
-| [tv-debloat](https://github.com/Dodai0419/tv-debloat) | Keep your Android TV debloated: check what an update turned back on, fix it, undo it, in 2-4 adb round trips. |
+| [tv-debloat](https://github.com/Dodai0419/tv-debloat) | Your Android TV update turned the ads, telemetry and promo apps back on. Switch them off again in one command, undo any time. |
 | [timeoff-html](https://github.com/Dodai0419/timeoff-html) | Open a polished time-off calendar as a file: drag to plan, request leave, watch your balance update. |
 | [party-menu](https://github.com/Dodai0419/party-menu) | Plan a home dinner for N people from the 370 HowToCook recipes: three menus, calories per person, a shopping list. |
 | [meal-fit](https://github.com/Dodai0419/meal-fit) | See how many calories your next meal has left today, then get the menu combos that fit it. One file, no deps. |
